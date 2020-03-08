@@ -27,5 +27,5 @@ for j in 1..m do
 #puts j
 
 end
-
+puts ""
 puts sum
