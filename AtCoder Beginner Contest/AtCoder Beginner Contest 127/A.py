@@ -4,3 +4,4 @@ if 6 <= a <= 12:
 elif a<6:
     b = 0
 print(int(b))
+
